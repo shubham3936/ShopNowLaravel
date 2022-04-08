@@ -19,6 +19,9 @@
     {{View::make('footer')}}
 </body>
 <style>
+    .navbar{
+        background-color:#FDF2E9 ;
+    }
    .custom-login{
        height:500px;
        padding-top:100px
